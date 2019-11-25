@@ -6,4 +6,4 @@ Prof.: Fernando Masanori (GitHub: fmasanori)
 - André Luis Fagundes (GitHub: Andre-lsf)
 
 #### Descrição:
-Este trabalho tem com objetivo apresentar uma análise de dados referente ao 'Saneamento Básico nas Escolas Brasileiras', apontando para os últimos 5 anos, direcionado mais específicamente para as necessidades básicas: Água, Sistema de Esgoto e Coleta de Lixo. Como fonte, utiliza-se o INEP (Instituto Nacional de Estudos e Pesquisas).  
+Este trabalho tem com objetivo apresentar uma análise de dados referente ao 'Saneamento Básico nas Escolas Brasileiras', entre anos de 2014 e 2018, direcionado mais específicamente para as necessidades básicas: Água, Sistema de Esgoto e Coleta de Lixo. Como fonte, utiliza-se o INEP (Instituto Nacional de Estudos e Pesquisas).  
