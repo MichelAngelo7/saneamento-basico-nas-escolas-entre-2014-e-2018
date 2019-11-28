@@ -1,0 +1,5 @@
+Software: Jupyter
+
+Bibliotecas: Pandas, Matplotlib e math
+
+Dados de consulta: https://drive.google.com/open?id=13tehpaO3-U4w14iytYOC_eFW8mWk58_b
